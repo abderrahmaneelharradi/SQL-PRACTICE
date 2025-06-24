@@ -1,0 +1,16 @@
+1-SQL query to create a Database:
+    CREATE DATABASE databasename;
+
+
+2- SQL query to create a table inside a Database:
+    CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+    ...
+    );
+
+
+3- SQl query to insert data into a table:
+    INSERT INTO table_name (column1, column2, column3, ...)
+    VALUES (value1, value2, value3, ...);
